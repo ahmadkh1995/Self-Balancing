@@ -3,5 +3,5 @@ Codes and Descriptions of My Bachelor thesis about Designing and Developing Self
 
 ## This project is based on Arduino electronic board. 
 ## The mechanical parts designed in Autodesk Inverntor software.
-## You can find more details in attached PDF file (Summery.pdf)
-(You can find Pictures in Photos folder)
+## You can find more details in attached PDF file [PDF](https://github.com/ahmadkh1995/Self-Balancing/blob/master/Summery.pdf)
+(You can find Pictures in [Photos PDF](https://github.com/ahmadkh1995/Self-Balancing/tree/master/Photos) )
